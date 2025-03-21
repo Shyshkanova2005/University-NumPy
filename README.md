@@ -1,2 +1,2 @@
 # University-NumPy
-Laboratory work 
+ Basics of analytics in Python
